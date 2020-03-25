@@ -11,13 +11,13 @@ Copy all the photos to photos folder, run the main.py and it will create 2 video
       Input:
     </td>
     <td>
-      <img src="https://github.com/rtacr/Star_Project/blob/master/photos/IMG_20190525_215458.jpg"/>
+      <img src="https://github.com/rtacr/Star_Project/blob/master/photos/1.jpg"/>
     </td>
     <td>
       ...
     </td>
     <td>
-      <img src="https://github.com/rtacr/Star_Project/blob/master/photos/IMG_20190525_215458.jpg"/>
+      <img src="https://github.com/rtacr/Star_Project/blob/master/photos/174.jpg"/>
     </td>
   </tr>
   <tr>
