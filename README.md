@@ -25,7 +25,7 @@ Copy all the photos to photos folder, run the main.py and it will create 2 video
       Output:
     </td>
     <td colspan="3">
-      <img src="https://github.com/rtacr/Star_Project/blob/master/out/img_0000.jpg"/>
+      <img src="https://github.com/rtacr/Star_Project/blob/master/out/img_0174.jpg"/>
     </td>
   </tr>
   </table>
